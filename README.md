@@ -1,5 +1,4 @@
 # hello-world
 hello 
-
-
-This is an initial commit, no information is being provided 
+Hello humans, my name is Henry! 
+I am programmed to enjoy the warmth of sunshine, but cannot comprehend warmth 
